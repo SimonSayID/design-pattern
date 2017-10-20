@@ -1,4 +1,6 @@
-# Software Design Pattern in cpp
+# Design Pattern
+
+ - software design patterns in cpp
 
 ## Creational Patterns
 

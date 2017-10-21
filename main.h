@@ -6,6 +6,7 @@
 #define DESIGN_PATTERN_MAIN_H
 
 #include <iostream>
+#include <iomanip>
 #include <string>
 #include <vector>
 #include <cassert>

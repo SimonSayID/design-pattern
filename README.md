@@ -13,3 +13,19 @@
  - prototype
  
  - singleton
+ 
+ ## Structural Patterns
+ 
+  - adapter
+  
+  - bridge
+  
+  - composite
+  
+  - decorator
+  
+  - facade
+  
+  - flyweight
+  
+  - proxy

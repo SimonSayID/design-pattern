@@ -5,6 +5,10 @@
 #ifndef DESIGN_PATTERN_TEST_H
 #define DESIGN_PATTERN_TEST_H
 
+// behavioral
+void observer_test();
+void visitor_test();
+
 // creational
 void abstract_factory_test();
 void builder_test();

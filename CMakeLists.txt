@@ -5,6 +5,10 @@ set(CMAKE_CXX_STANDARD 17)
 
 file(
         GLOB SOURCE
+        "behavioral/observer/*.h"
+        "behavioral/observer/*.cpp"
+        "behavioral/visitor/*.h"
+        "behavioral/visitor/*.cpp"
         "behavioral/*.h"
         "behavioral/*.cpp"
         "creational/*.h"
@@ -35,6 +39,7 @@ file(
         "structural/flyweight/*.cpp"
         "structural/proxy/*.h"
         "structural/proxy/*.cpp"
+
         "*.h"
         "*.cpp"
 )

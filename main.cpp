@@ -18,6 +18,8 @@ int main() {
     facade_test();
     flyweight_test();
     proxy_test();
+    observer_test();
+    visitor_test();
     std::cout << "test done" << std::endl;
     return 0;
 }

@@ -29,3 +29,9 @@
   - flyweight
   
   - proxy
+  
+  ## Behavioral Patterns
+  
+   - observer 
+   
+   - visitor
